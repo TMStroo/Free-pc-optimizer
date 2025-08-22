@@ -16,7 +16,7 @@ TM Tweaks Optimizer is a lightweight tool that makes your PC 🚀 faster, 🎮 g
 ## 📥 Download  
 
 1. Go to the [Releases](../../releases) section of this repository.  
-2. Download the latest **TM-Tweaks-Optimizer.zip** file.  
+2. Download the latest **TM-Tweaks-Optimizer** file.  
 3. Extract the `.zip` file to any folder of your choice.  
 
 ---
@@ -24,7 +24,7 @@ TM Tweaks Optimizer is a lightweight tool that makes your PC 🚀 faster, 🎮 g
 ## 💻 Installation  
 
 1. Open the extracted folder.  
-2. Run **TMTweaksOptimizer.exe** (no installation required).  
+2. Run **TMTweaks.bat** (no installation required).  
 3. Enjoy your optimized PC! 🚀  
 
 ---
